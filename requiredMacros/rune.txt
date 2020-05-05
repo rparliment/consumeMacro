@@ -1,0 +1,3 @@
+#showtooltip
+/use Demonic Rune
+/use Dark Rune
