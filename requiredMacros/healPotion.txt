@@ -1,0 +1,7 @@
+#showtooltip
+/use Major Healing Potion
+/use Superior Healing Potion
+/use Greater Healing Potion
+/use Healing Potion
+/use Lesser Healing Potion
+/use Minor Healing Potion

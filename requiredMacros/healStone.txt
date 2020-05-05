@@ -1,0 +1,8 @@
+#showtooltip
+/use Major Healthstone
+/use Whipper Root Tuber
+/use Superior Healthstone
+/use Greater Healthstone
+/use Healthstone
+/use Lesser Healthstone
+/use Minor Healthstone

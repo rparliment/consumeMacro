@@ -1,0 +1,2 @@
+#showtooltip
+/cast Conjure Mana Ruby

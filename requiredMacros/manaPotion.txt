@@ -1,0 +1,7 @@
+#showtooltip
+/use Major Mana Potion
+/use Superior Mana Potion
+/use Greater Mana Potion
+/use Mana Potion
+/use Lesser Mana Potion
+/use Minor Mana Potion

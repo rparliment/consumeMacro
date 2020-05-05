@@ -1,0 +1,5 @@
+#showtooltip
+/use Mana Ruby
+/use Mana Citrine
+/use Mana Jade
+/use Mana Agate

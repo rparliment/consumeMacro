@@ -1,0 +1,4 @@
+## Interface: 11304
+## Title: consumeMacro
+## SavedVariables: consumeMacroWarning
+consumeMacro.lua
